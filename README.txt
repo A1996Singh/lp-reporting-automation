@@ -38,3 +38,4 @@ python lp_report_automation.py   # run each quarter
 ## Background
 Built by a fund accountant learning Python to automate
 repetitive quarterly workflows in Private Equity operations.
+Developed with AI-Assisted pair programming (Claude by Anthropic).
